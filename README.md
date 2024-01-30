@@ -6,13 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=truptichoudhari16&label=Profile%20views&color=0e75b6&style=flat" alt="truptichoudhari16" /> </p>
 
-<p align="left"> <a href="https://twitter.com/trupti8010" target="blank"><img src="https://img.shields.io/twitter/follow/trupti8010?logo=twitter&style=for-the-badge" alt="trupti8010" /></a> </p>
-
 - 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **MongoDB & Node.js**
-
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/choudharitrupti2020](https://app.netlify.com/teams/choudharitrupti2020)
 
 - 💬 Ask me about **React.JS, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS, C++, Java**
 
